@@ -3,9 +3,9 @@
 ## Table of Contents
 [Installation](https://github.com/spreuhs/data_science_nd_project_1/blob/main/README.md#installation)
 
-[Project Motivation](https://github.com/spreuhs/data_science_nd_project_1/blob/main/README.md#project motivation)
+[Project Motivation](https://github.com/spreuhs/data_science_nd_project_1/blob/main/README.md#project-motivation)
 
-[File Descriptions](https://github.com/spreuhs/data_science_nd_project_1/blob/main/README.md#file descriptions)
+[File Descriptions](https://github.com/spreuhs/data_science_nd_project_1/blob/main/README.md#file-descriptions)
 
 [Results](https://github.com/spreuhs/data_science_nd_project_1/blob/main/README.md#results)
 
