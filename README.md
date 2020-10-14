@@ -12,6 +12,7 @@
 [Acknowledgements](https://github.com/spreuhs/data_science_nd_project_1/blob/main/README.md#acknowledgements)
 
 ## Installation
+There should be no necessary libraries to run the code beyond the Anaconda distribution of Python. The code should run without issues using Python versions 3.*.
 
 ## Project Motivation
 
