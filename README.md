@@ -13,7 +13,7 @@
 
 ## Installation
 
-### Project Motivation
+## Project Motivation
 
 ## File Descriptions
 
