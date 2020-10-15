@@ -1,4 +1,4 @@
-# data_science_nd_project_1
+# Host Locality Effects in Berlin
 
 ## Table of Contents
 [Installation](https://github.com/spreuhs/data_science_nd_project_1/blob/main/README.md#installation)
