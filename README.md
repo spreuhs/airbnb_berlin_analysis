@@ -32,7 +32,7 @@ The whole process is gathered in the notebook found in this directory. Detailed 
 
 ## Results
 
-Most of the results can be found in the notebook. Additional information and formatted results can be found [here](https://spreuhs.medium.com/host-locality-effects-in-berlin-abe48349994b).
+Most of the results can be found in the notebook. Additional information and formatted results can be found in my Medium post [here](https://spreuhs.medium.com/host-locality-effects-in-berlin-abe48349994b).
 
 ## Acknowledgements
 Data from: http://insideairbnb.com/get-the-data.html under a  Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication" license. 
